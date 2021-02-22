@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-![](https://www.nhm.ac.uk/content/dam/nhmwww/our-science/collections/palaentology/mucrospirifer-brachiopod-full-width.jpg.thumb.1920.1920.jpg)
+![](https://specials-images.forbesimg.com/imageserve/5d3703e2f1176b00089761a6/960x0.jpg?cropX1=836&cropX2=5396&cropY1=799&cropY2=3364)
 
 ## R Markdown
 
